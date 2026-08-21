@@ -93,7 +93,7 @@ Too infrastructural; no buyer until a crisis.
 
 This project is intentionally scoped to **AI and Agentic AI** only.
 
-It was invented by **Vectra FutureLab** as an isolated overnight prototype. It does not modify unrelated repositories or deploy itself publicly unless GitHub publishing is explicitly enabled.
+ 
 
 ---
 
